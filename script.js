@@ -58,7 +58,7 @@ function updateWrongLetterElement() {
         if(index < errors) {
             part.style.display = 'block';
         } else {
-            part.style.display = 'nonye';
+            part.style.display = 'none';
         }
     });
 
